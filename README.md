@@ -1,5 +1,5 @@
 # 💫 About Me:
-### I am Innocent Idoko <br>#### Backend Developer | Software Engineer<br>Passionate about solving complex problems with clean<br>and efficient code. I enjoy working with backend technologies and<br>I am constantly learning and evolving in the field.
+### I am Innocent Idoko <br>#### Software Engineer<br>Passionate about solving complex problems with clean<br>and efficient code. I enjoy working with backend technologies and<br>I am constantly learning and evolving in the field.
 
 
 ## 🌐 Socials:
